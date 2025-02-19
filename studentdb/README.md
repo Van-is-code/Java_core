@@ -1,0 +1,1 @@
+Chạy studentdb.sql để tạo database và bảng 
